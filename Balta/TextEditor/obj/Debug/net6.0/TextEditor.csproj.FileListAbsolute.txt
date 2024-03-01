@@ -1,0 +1,15 @@
+/home/esdras/RiderProjects/NDSESTUDOS/Balta/TextEditor/bin/Debug/net6.0/TextEditor
+/home/esdras/RiderProjects/NDSESTUDOS/Balta/TextEditor/bin/Debug/net6.0/TextEditor.deps.json
+/home/esdras/RiderProjects/NDSESTUDOS/Balta/TextEditor/bin/Debug/net6.0/TextEditor.runtimeconfig.json
+/home/esdras/RiderProjects/NDSESTUDOS/Balta/TextEditor/bin/Debug/net6.0/TextEditor.dll
+/home/esdras/RiderProjects/NDSESTUDOS/Balta/TextEditor/bin/Debug/net6.0/ref/TextEditor.dll
+/home/esdras/RiderProjects/NDSESTUDOS/Balta/TextEditor/bin/Debug/net6.0/TextEditor.pdb
+/home/esdras/RiderProjects/NDSESTUDOS/Balta/TextEditor/obj/Debug/net6.0/TextEditor.csproj.AssemblyReference.cache
+/home/esdras/RiderProjects/NDSESTUDOS/Balta/TextEditor/obj/Debug/net6.0/TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+/home/esdras/RiderProjects/NDSESTUDOS/Balta/TextEditor/obj/Debug/net6.0/TextEditor.AssemblyInfoInputs.cache
+/home/esdras/RiderProjects/NDSESTUDOS/Balta/TextEditor/obj/Debug/net6.0/TextEditor.AssemblyInfo.cs
+/home/esdras/RiderProjects/NDSESTUDOS/Balta/TextEditor/obj/Debug/net6.0/TextEditor.csproj.CoreCompileInputs.cache
+/home/esdras/RiderProjects/NDSESTUDOS/Balta/TextEditor/obj/Debug/net6.0/TextEditor.dll
+/home/esdras/RiderProjects/NDSESTUDOS/Balta/TextEditor/obj/Debug/net6.0/ref/TextEditor.dll
+/home/esdras/RiderProjects/NDSESTUDOS/Balta/TextEditor/obj/Debug/net6.0/TextEditor.pdb
+/home/esdras/RiderProjects/NDSESTUDOS/Balta/TextEditor/obj/Debug/net6.0/TextEditor.genruntimeconfig.cache
