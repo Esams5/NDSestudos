@@ -1,0 +1,15 @@
+/home/esdras/RiderProjects/NDSESTUDOS/Balta/EditorHtml/bin/Debug/net6.0/EditorHtml
+/home/esdras/RiderProjects/NDSESTUDOS/Balta/EditorHtml/bin/Debug/net6.0/EditorHtml.deps.json
+/home/esdras/RiderProjects/NDSESTUDOS/Balta/EditorHtml/bin/Debug/net6.0/EditorHtml.runtimeconfig.json
+/home/esdras/RiderProjects/NDSESTUDOS/Balta/EditorHtml/bin/Debug/net6.0/EditorHtml.dll
+/home/esdras/RiderProjects/NDSESTUDOS/Balta/EditorHtml/bin/Debug/net6.0/ref/EditorHtml.dll
+/home/esdras/RiderProjects/NDSESTUDOS/Balta/EditorHtml/bin/Debug/net6.0/EditorHtml.pdb
+/home/esdras/RiderProjects/NDSESTUDOS/Balta/EditorHtml/obj/Debug/net6.0/EditorHtml.csproj.AssemblyReference.cache
+/home/esdras/RiderProjects/NDSESTUDOS/Balta/EditorHtml/obj/Debug/net6.0/EditorHtml.GeneratedMSBuildEditorConfig.editorconfig
+/home/esdras/RiderProjects/NDSESTUDOS/Balta/EditorHtml/obj/Debug/net6.0/EditorHtml.AssemblyInfoInputs.cache
+/home/esdras/RiderProjects/NDSESTUDOS/Balta/EditorHtml/obj/Debug/net6.0/EditorHtml.AssemblyInfo.cs
+/home/esdras/RiderProjects/NDSESTUDOS/Balta/EditorHtml/obj/Debug/net6.0/EditorHtml.csproj.CoreCompileInputs.cache
+/home/esdras/RiderProjects/NDSESTUDOS/Balta/EditorHtml/obj/Debug/net6.0/EditorHtml.dll
+/home/esdras/RiderProjects/NDSESTUDOS/Balta/EditorHtml/obj/Debug/net6.0/ref/EditorHtml.dll
+/home/esdras/RiderProjects/NDSESTUDOS/Balta/EditorHtml/obj/Debug/net6.0/EditorHtml.pdb
+/home/esdras/RiderProjects/NDSESTUDOS/Balta/EditorHtml/obj/Debug/net6.0/EditorHtml.genruntimeconfig.cache
