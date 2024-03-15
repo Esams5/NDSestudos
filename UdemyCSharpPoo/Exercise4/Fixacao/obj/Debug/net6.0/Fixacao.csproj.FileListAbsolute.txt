@@ -1,0 +1,15 @@
+/home/esdras/UdemyCSharp/exercise4/Fixacao/bin/Debug/net6.0/Fixacao
+/home/esdras/UdemyCSharp/exercise4/Fixacao/bin/Debug/net6.0/Fixacao.deps.json
+/home/esdras/UdemyCSharp/exercise4/Fixacao/bin/Debug/net6.0/Fixacao.runtimeconfig.json
+/home/esdras/UdemyCSharp/exercise4/Fixacao/bin/Debug/net6.0/Fixacao.dll
+/home/esdras/UdemyCSharp/exercise4/Fixacao/bin/Debug/net6.0/ref/Fixacao.dll
+/home/esdras/UdemyCSharp/exercise4/Fixacao/bin/Debug/net6.0/Fixacao.pdb
+/home/esdras/UdemyCSharp/exercise4/Fixacao/obj/Debug/net6.0/Fixacao.csproj.AssemblyReference.cache
+/home/esdras/UdemyCSharp/exercise4/Fixacao/obj/Debug/net6.0/Fixacao.GeneratedMSBuildEditorConfig.editorconfig
+/home/esdras/UdemyCSharp/exercise4/Fixacao/obj/Debug/net6.0/Fixacao.AssemblyInfoInputs.cache
+/home/esdras/UdemyCSharp/exercise4/Fixacao/obj/Debug/net6.0/Fixacao.AssemblyInfo.cs
+/home/esdras/UdemyCSharp/exercise4/Fixacao/obj/Debug/net6.0/Fixacao.csproj.CoreCompileInputs.cache
+/home/esdras/UdemyCSharp/exercise4/Fixacao/obj/Debug/net6.0/Fixacao.dll
+/home/esdras/UdemyCSharp/exercise4/Fixacao/obj/Debug/net6.0/ref/Fixacao.dll
+/home/esdras/UdemyCSharp/exercise4/Fixacao/obj/Debug/net6.0/Fixacao.pdb
+/home/esdras/UdemyCSharp/exercise4/Fixacao/obj/Debug/net6.0/Fixacao.genruntimeconfig.cache
