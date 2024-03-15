@@ -1,0 +1,15 @@
+/home/esdras/UdemyCSharp/exercise4/Proposto2/bin/Debug/net6.0/Proposto2
+/home/esdras/UdemyCSharp/exercise4/Proposto2/bin/Debug/net6.0/Proposto2.deps.json
+/home/esdras/UdemyCSharp/exercise4/Proposto2/bin/Debug/net6.0/Proposto2.runtimeconfig.json
+/home/esdras/UdemyCSharp/exercise4/Proposto2/bin/Debug/net6.0/Proposto2.dll
+/home/esdras/UdemyCSharp/exercise4/Proposto2/bin/Debug/net6.0/ref/Proposto2.dll
+/home/esdras/UdemyCSharp/exercise4/Proposto2/bin/Debug/net6.0/Proposto2.pdb
+/home/esdras/UdemyCSharp/exercise4/Proposto2/obj/Debug/net6.0/Proposto2.csproj.AssemblyReference.cache
+/home/esdras/UdemyCSharp/exercise4/Proposto2/obj/Debug/net6.0/Proposto2.GeneratedMSBuildEditorConfig.editorconfig
+/home/esdras/UdemyCSharp/exercise4/Proposto2/obj/Debug/net6.0/Proposto2.AssemblyInfoInputs.cache
+/home/esdras/UdemyCSharp/exercise4/Proposto2/obj/Debug/net6.0/Proposto2.AssemblyInfo.cs
+/home/esdras/UdemyCSharp/exercise4/Proposto2/obj/Debug/net6.0/Proposto2.csproj.CoreCompileInputs.cache
+/home/esdras/UdemyCSharp/exercise4/Proposto2/obj/Debug/net6.0/Proposto2.dll
+/home/esdras/UdemyCSharp/exercise4/Proposto2/obj/Debug/net6.0/ref/Proposto2.dll
+/home/esdras/UdemyCSharp/exercise4/Proposto2/obj/Debug/net6.0/Proposto2.pdb
+/home/esdras/UdemyCSharp/exercise4/Proposto2/obj/Debug/net6.0/Proposto2.genruntimeconfig.cache
