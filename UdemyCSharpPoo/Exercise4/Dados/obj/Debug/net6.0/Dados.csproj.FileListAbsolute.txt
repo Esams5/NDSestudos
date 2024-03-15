@@ -1,0 +1,15 @@
+/home/esdras/UdemyCSharp/exercise4/Dados/bin/Debug/net6.0/Dados
+/home/esdras/UdemyCSharp/exercise4/Dados/bin/Debug/net6.0/Dados.deps.json
+/home/esdras/UdemyCSharp/exercise4/Dados/bin/Debug/net6.0/Dados.runtimeconfig.json
+/home/esdras/UdemyCSharp/exercise4/Dados/bin/Debug/net6.0/Dados.dll
+/home/esdras/UdemyCSharp/exercise4/Dados/bin/Debug/net6.0/ref/Dados.dll
+/home/esdras/UdemyCSharp/exercise4/Dados/bin/Debug/net6.0/Dados.pdb
+/home/esdras/UdemyCSharp/exercise4/Dados/obj/Debug/net6.0/Dados.csproj.AssemblyReference.cache
+/home/esdras/UdemyCSharp/exercise4/Dados/obj/Debug/net6.0/Dados.GeneratedMSBuildEditorConfig.editorconfig
+/home/esdras/UdemyCSharp/exercise4/Dados/obj/Debug/net6.0/Dados.AssemblyInfoInputs.cache
+/home/esdras/UdemyCSharp/exercise4/Dados/obj/Debug/net6.0/Dados.AssemblyInfo.cs
+/home/esdras/UdemyCSharp/exercise4/Dados/obj/Debug/net6.0/Dados.csproj.CoreCompileInputs.cache
+/home/esdras/UdemyCSharp/exercise4/Dados/obj/Debug/net6.0/Dados.dll
+/home/esdras/UdemyCSharp/exercise4/Dados/obj/Debug/net6.0/ref/Dados.dll
+/home/esdras/UdemyCSharp/exercise4/Dados/obj/Debug/net6.0/Dados.pdb
+/home/esdras/UdemyCSharp/exercise4/Dados/obj/Debug/net6.0/Dados.genruntimeconfig.cache
