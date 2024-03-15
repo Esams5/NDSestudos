@@ -1,0 +1,15 @@
+/home/esdras/UdemyCSharp/exercise4/Estoque/bin/Debug/net6.0/Estoque
+/home/esdras/UdemyCSharp/exercise4/Estoque/bin/Debug/net6.0/Estoque.deps.json
+/home/esdras/UdemyCSharp/exercise4/Estoque/bin/Debug/net6.0/Estoque.runtimeconfig.json
+/home/esdras/UdemyCSharp/exercise4/Estoque/bin/Debug/net6.0/Estoque.dll
+/home/esdras/UdemyCSharp/exercise4/Estoque/bin/Debug/net6.0/ref/Estoque.dll
+/home/esdras/UdemyCSharp/exercise4/Estoque/bin/Debug/net6.0/Estoque.pdb
+/home/esdras/UdemyCSharp/exercise4/Estoque/obj/Debug/net6.0/Estoque.csproj.AssemblyReference.cache
+/home/esdras/UdemyCSharp/exercise4/Estoque/obj/Debug/net6.0/Estoque.GeneratedMSBuildEditorConfig.editorconfig
+/home/esdras/UdemyCSharp/exercise4/Estoque/obj/Debug/net6.0/Estoque.AssemblyInfoInputs.cache
+/home/esdras/UdemyCSharp/exercise4/Estoque/obj/Debug/net6.0/Estoque.AssemblyInfo.cs
+/home/esdras/UdemyCSharp/exercise4/Estoque/obj/Debug/net6.0/Estoque.csproj.CoreCompileInputs.cache
+/home/esdras/UdemyCSharp/exercise4/Estoque/obj/Debug/net6.0/Estoque.dll
+/home/esdras/UdemyCSharp/exercise4/Estoque/obj/Debug/net6.0/ref/Estoque.dll
+/home/esdras/UdemyCSharp/exercise4/Estoque/obj/Debug/net6.0/Estoque.pdb
+/home/esdras/UdemyCSharp/exercise4/Estoque/obj/Debug/net6.0/Estoque.genruntimeconfig.cache
