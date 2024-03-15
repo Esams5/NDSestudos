@@ -1,0 +1,15 @@
+/home/esdras/UdemyCSharp/exercise4/MemEstaticos/bin/Debug/net6.0/MemEstaticos
+/home/esdras/UdemyCSharp/exercise4/MemEstaticos/bin/Debug/net6.0/MemEstaticos.deps.json
+/home/esdras/UdemyCSharp/exercise4/MemEstaticos/bin/Debug/net6.0/MemEstaticos.runtimeconfig.json
+/home/esdras/UdemyCSharp/exercise4/MemEstaticos/bin/Debug/net6.0/MemEstaticos.dll
+/home/esdras/UdemyCSharp/exercise4/MemEstaticos/bin/Debug/net6.0/ref/MemEstaticos.dll
+/home/esdras/UdemyCSharp/exercise4/MemEstaticos/bin/Debug/net6.0/MemEstaticos.pdb
+/home/esdras/UdemyCSharp/exercise4/MemEstaticos/obj/Debug/net6.0/MemEstaticos.csproj.AssemblyReference.cache
+/home/esdras/UdemyCSharp/exercise4/MemEstaticos/obj/Debug/net6.0/MemEstaticos.GeneratedMSBuildEditorConfig.editorconfig
+/home/esdras/UdemyCSharp/exercise4/MemEstaticos/obj/Debug/net6.0/MemEstaticos.AssemblyInfoInputs.cache
+/home/esdras/UdemyCSharp/exercise4/MemEstaticos/obj/Debug/net6.0/MemEstaticos.AssemblyInfo.cs
+/home/esdras/UdemyCSharp/exercise4/MemEstaticos/obj/Debug/net6.0/MemEstaticos.csproj.CoreCompileInputs.cache
+/home/esdras/UdemyCSharp/exercise4/MemEstaticos/obj/Debug/net6.0/MemEstaticos.dll
+/home/esdras/UdemyCSharp/exercise4/MemEstaticos/obj/Debug/net6.0/ref/MemEstaticos.dll
+/home/esdras/UdemyCSharp/exercise4/MemEstaticos/obj/Debug/net6.0/MemEstaticos.pdb
+/home/esdras/UdemyCSharp/exercise4/MemEstaticos/obj/Debug/net6.0/MemEstaticos.genruntimeconfig.cache
