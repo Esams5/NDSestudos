@@ -1,0 +1,15 @@
+/home/esdras/UdemyCSharp/exercise5/Item/bin/Debug/net6.0/Item
+/home/esdras/UdemyCSharp/exercise5/Item/bin/Debug/net6.0/Item.deps.json
+/home/esdras/UdemyCSharp/exercise5/Item/bin/Debug/net6.0/Item.runtimeconfig.json
+/home/esdras/UdemyCSharp/exercise5/Item/bin/Debug/net6.0/Item.dll
+/home/esdras/UdemyCSharp/exercise5/Item/bin/Debug/net6.0/ref/Item.dll
+/home/esdras/UdemyCSharp/exercise5/Item/bin/Debug/net6.0/Item.pdb
+/home/esdras/UdemyCSharp/exercise5/Item/obj/Debug/net6.0/Item.csproj.AssemblyReference.cache
+/home/esdras/UdemyCSharp/exercise5/Item/obj/Debug/net6.0/Item.GeneratedMSBuildEditorConfig.editorconfig
+/home/esdras/UdemyCSharp/exercise5/Item/obj/Debug/net6.0/Item.AssemblyInfoInputs.cache
+/home/esdras/UdemyCSharp/exercise5/Item/obj/Debug/net6.0/Item.AssemblyInfo.cs
+/home/esdras/UdemyCSharp/exercise5/Item/obj/Debug/net6.0/Item.csproj.CoreCompileInputs.cache
+/home/esdras/UdemyCSharp/exercise5/Item/obj/Debug/net6.0/Item.dll
+/home/esdras/UdemyCSharp/exercise5/Item/obj/Debug/net6.0/ref/Item.dll
+/home/esdras/UdemyCSharp/exercise5/Item/obj/Debug/net6.0/Item.pdb
+/home/esdras/UdemyCSharp/exercise5/Item/obj/Debug/net6.0/Item.genruntimeconfig.cache
