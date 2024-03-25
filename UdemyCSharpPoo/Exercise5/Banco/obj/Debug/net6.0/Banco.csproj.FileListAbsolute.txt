@@ -1,0 +1,15 @@
+/home/esdras/UdemyCSharp/exercise5/Banco/bin/Debug/net6.0/Banco
+/home/esdras/UdemyCSharp/exercise5/Banco/bin/Debug/net6.0/Banco.deps.json
+/home/esdras/UdemyCSharp/exercise5/Banco/bin/Debug/net6.0/Banco.runtimeconfig.json
+/home/esdras/UdemyCSharp/exercise5/Banco/bin/Debug/net6.0/Banco.dll
+/home/esdras/UdemyCSharp/exercise5/Banco/bin/Debug/net6.0/ref/Banco.dll
+/home/esdras/UdemyCSharp/exercise5/Banco/bin/Debug/net6.0/Banco.pdb
+/home/esdras/UdemyCSharp/exercise5/Banco/obj/Debug/net6.0/Banco.csproj.AssemblyReference.cache
+/home/esdras/UdemyCSharp/exercise5/Banco/obj/Debug/net6.0/Banco.GeneratedMSBuildEditorConfig.editorconfig
+/home/esdras/UdemyCSharp/exercise5/Banco/obj/Debug/net6.0/Banco.AssemblyInfoInputs.cache
+/home/esdras/UdemyCSharp/exercise5/Banco/obj/Debug/net6.0/Banco.AssemblyInfo.cs
+/home/esdras/UdemyCSharp/exercise5/Banco/obj/Debug/net6.0/Banco.csproj.CoreCompileInputs.cache
+/home/esdras/UdemyCSharp/exercise5/Banco/obj/Debug/net6.0/Banco.dll
+/home/esdras/UdemyCSharp/exercise5/Banco/obj/Debug/net6.0/ref/Banco.dll
+/home/esdras/UdemyCSharp/exercise5/Banco/obj/Debug/net6.0/Banco.pdb
+/home/esdras/UdemyCSharp/exercise5/Banco/obj/Debug/net6.0/Banco.genruntimeconfig.cache
