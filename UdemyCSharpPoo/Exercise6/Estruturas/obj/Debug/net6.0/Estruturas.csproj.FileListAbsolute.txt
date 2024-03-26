@@ -1,0 +1,15 @@
+/home/esdras/UdemyCSharp/exercise6/Estruturas/bin/Debug/net6.0/Estruturas
+/home/esdras/UdemyCSharp/exercise6/Estruturas/bin/Debug/net6.0/Estruturas.deps.json
+/home/esdras/UdemyCSharp/exercise6/Estruturas/bin/Debug/net6.0/Estruturas.runtimeconfig.json
+/home/esdras/UdemyCSharp/exercise6/Estruturas/bin/Debug/net6.0/Estruturas.dll
+/home/esdras/UdemyCSharp/exercise6/Estruturas/bin/Debug/net6.0/ref/Estruturas.dll
+/home/esdras/UdemyCSharp/exercise6/Estruturas/bin/Debug/net6.0/Estruturas.pdb
+/home/esdras/UdemyCSharp/exercise6/Estruturas/obj/Debug/net6.0/Estruturas.csproj.AssemblyReference.cache
+/home/esdras/UdemyCSharp/exercise6/Estruturas/obj/Debug/net6.0/Estruturas.GeneratedMSBuildEditorConfig.editorconfig
+/home/esdras/UdemyCSharp/exercise6/Estruturas/obj/Debug/net6.0/Estruturas.AssemblyInfoInputs.cache
+/home/esdras/UdemyCSharp/exercise6/Estruturas/obj/Debug/net6.0/Estruturas.AssemblyInfo.cs
+/home/esdras/UdemyCSharp/exercise6/Estruturas/obj/Debug/net6.0/Estruturas.csproj.CoreCompileInputs.cache
+/home/esdras/UdemyCSharp/exercise6/Estruturas/obj/Debug/net6.0/Estruturas.dll
+/home/esdras/UdemyCSharp/exercise6/Estruturas/obj/Debug/net6.0/ref/Estruturas.dll
+/home/esdras/UdemyCSharp/exercise6/Estruturas/obj/Debug/net6.0/Estruturas.pdb
+/home/esdras/UdemyCSharp/exercise6/Estruturas/obj/Debug/net6.0/Estruturas.genruntimeconfig.cache
