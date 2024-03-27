@@ -1,0 +1,15 @@
+/home/esdras/UdemyCSharp/exercise6/Vetores1/bin/Debug/net6.0/Vetores1
+/home/esdras/UdemyCSharp/exercise6/Vetores1/bin/Debug/net6.0/Vetores1.deps.json
+/home/esdras/UdemyCSharp/exercise6/Vetores1/bin/Debug/net6.0/Vetores1.runtimeconfig.json
+/home/esdras/UdemyCSharp/exercise6/Vetores1/bin/Debug/net6.0/Vetores1.dll
+/home/esdras/UdemyCSharp/exercise6/Vetores1/bin/Debug/net6.0/ref/Vetores1.dll
+/home/esdras/UdemyCSharp/exercise6/Vetores1/bin/Debug/net6.0/Vetores1.pdb
+/home/esdras/UdemyCSharp/exercise6/Vetores1/obj/Debug/net6.0/Vetores1.csproj.AssemblyReference.cache
+/home/esdras/UdemyCSharp/exercise6/Vetores1/obj/Debug/net6.0/Vetores1.GeneratedMSBuildEditorConfig.editorconfig
+/home/esdras/UdemyCSharp/exercise6/Vetores1/obj/Debug/net6.0/Vetores1.AssemblyInfoInputs.cache
+/home/esdras/UdemyCSharp/exercise6/Vetores1/obj/Debug/net6.0/Vetores1.AssemblyInfo.cs
+/home/esdras/UdemyCSharp/exercise6/Vetores1/obj/Debug/net6.0/Vetores1.csproj.CoreCompileInputs.cache
+/home/esdras/UdemyCSharp/exercise6/Vetores1/obj/Debug/net6.0/Vetores1.dll
+/home/esdras/UdemyCSharp/exercise6/Vetores1/obj/Debug/net6.0/ref/Vetores1.dll
+/home/esdras/UdemyCSharp/exercise6/Vetores1/obj/Debug/net6.0/Vetores1.pdb
+/home/esdras/UdemyCSharp/exercise6/Vetores1/obj/Debug/net6.0/Vetores1.genruntimeconfig.cache
