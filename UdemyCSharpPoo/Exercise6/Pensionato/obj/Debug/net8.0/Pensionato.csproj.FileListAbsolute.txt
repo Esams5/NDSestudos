@@ -1,0 +1,14 @@
+C:\Users\Samuel\Desktop\UdemyCSharp\Pensionato\bin\Debug\net8.0\Pensionato.exe
+C:\Users\Samuel\Desktop\UdemyCSharp\Pensionato\bin\Debug\net8.0\Pensionato.deps.json
+C:\Users\Samuel\Desktop\UdemyCSharp\Pensionato\bin\Debug\net8.0\Pensionato.runtimeconfig.json
+C:\Users\Samuel\Desktop\UdemyCSharp\Pensionato\bin\Debug\net8.0\Pensionato.dll
+C:\Users\Samuel\Desktop\UdemyCSharp\Pensionato\bin\Debug\net8.0\Pensionato.pdb
+C:\Users\Samuel\Desktop\UdemyCSharp\Pensionato\obj\Debug\net8.0\Pensionato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel\Desktop\UdemyCSharp\Pensionato\obj\Debug\net8.0\Pensionato.AssemblyInfoInputs.cache
+C:\Users\Samuel\Desktop\UdemyCSharp\Pensionato\obj\Debug\net8.0\Pensionato.AssemblyInfo.cs
+C:\Users\Samuel\Desktop\UdemyCSharp\Pensionato\obj\Debug\net8.0\Pensionato.csproj.CoreCompileInputs.cache
+C:\Users\Samuel\Desktop\UdemyCSharp\Pensionato\obj\Debug\net8.0\Pensionato.dll
+C:\Users\Samuel\Desktop\UdemyCSharp\Pensionato\obj\Debug\net8.0\refint\Pensionato.dll
+C:\Users\Samuel\Desktop\UdemyCSharp\Pensionato\obj\Debug\net8.0\Pensionato.pdb
+C:\Users\Samuel\Desktop\UdemyCSharp\Pensionato\obj\Debug\net8.0\Pensionato.genruntimeconfig.cache
+C:\Users\Samuel\Desktop\UdemyCSharp\Pensionato\obj\Debug\net8.0\ref\Pensionato.dll
