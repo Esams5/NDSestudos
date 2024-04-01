@@ -1,0 +1,15 @@
+/home/esdras/UdemyCSharp/exercise6/Calculadora/bin/Debug/net6.0/Calculadora
+/home/esdras/UdemyCSharp/exercise6/Calculadora/bin/Debug/net6.0/Calculadora.deps.json
+/home/esdras/UdemyCSharp/exercise6/Calculadora/bin/Debug/net6.0/Calculadora.runtimeconfig.json
+/home/esdras/UdemyCSharp/exercise6/Calculadora/bin/Debug/net6.0/Calculadora.dll
+/home/esdras/UdemyCSharp/exercise6/Calculadora/bin/Debug/net6.0/ref/Calculadora.dll
+/home/esdras/UdemyCSharp/exercise6/Calculadora/bin/Debug/net6.0/Calculadora.pdb
+/home/esdras/UdemyCSharp/exercise6/Calculadora/obj/Debug/net6.0/Calculadora.csproj.AssemblyReference.cache
+/home/esdras/UdemyCSharp/exercise6/Calculadora/obj/Debug/net6.0/Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+/home/esdras/UdemyCSharp/exercise6/Calculadora/obj/Debug/net6.0/Calculadora.AssemblyInfoInputs.cache
+/home/esdras/UdemyCSharp/exercise6/Calculadora/obj/Debug/net6.0/Calculadora.AssemblyInfo.cs
+/home/esdras/UdemyCSharp/exercise6/Calculadora/obj/Debug/net6.0/Calculadora.csproj.CoreCompileInputs.cache
+/home/esdras/UdemyCSharp/exercise6/Calculadora/obj/Debug/net6.0/Calculadora.dll
+/home/esdras/UdemyCSharp/exercise6/Calculadora/obj/Debug/net6.0/ref/Calculadora.dll
+/home/esdras/UdemyCSharp/exercise6/Calculadora/obj/Debug/net6.0/Calculadora.pdb
+/home/esdras/UdemyCSharp/exercise6/Calculadora/obj/Debug/net6.0/Calculadora.genruntimeconfig.cache
