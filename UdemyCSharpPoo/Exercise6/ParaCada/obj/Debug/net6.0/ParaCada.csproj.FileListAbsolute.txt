@@ -1,0 +1,15 @@
+/home/esdras/UdemyCSharp/exercise6/ParaCada/bin/Debug/net6.0/ParaCada
+/home/esdras/UdemyCSharp/exercise6/ParaCada/bin/Debug/net6.0/ParaCada.deps.json
+/home/esdras/UdemyCSharp/exercise6/ParaCada/bin/Debug/net6.0/ParaCada.runtimeconfig.json
+/home/esdras/UdemyCSharp/exercise6/ParaCada/bin/Debug/net6.0/ParaCada.dll
+/home/esdras/UdemyCSharp/exercise6/ParaCada/bin/Debug/net6.0/ref/ParaCada.dll
+/home/esdras/UdemyCSharp/exercise6/ParaCada/bin/Debug/net6.0/ParaCada.pdb
+/home/esdras/UdemyCSharp/exercise6/ParaCada/obj/Debug/net6.0/ParaCada.csproj.AssemblyReference.cache
+/home/esdras/UdemyCSharp/exercise6/ParaCada/obj/Debug/net6.0/ParaCada.GeneratedMSBuildEditorConfig.editorconfig
+/home/esdras/UdemyCSharp/exercise6/ParaCada/obj/Debug/net6.0/ParaCada.AssemblyInfoInputs.cache
+/home/esdras/UdemyCSharp/exercise6/ParaCada/obj/Debug/net6.0/ParaCada.AssemblyInfo.cs
+/home/esdras/UdemyCSharp/exercise6/ParaCada/obj/Debug/net6.0/ParaCada.csproj.CoreCompileInputs.cache
+/home/esdras/UdemyCSharp/exercise6/ParaCada/obj/Debug/net6.0/ParaCada.dll
+/home/esdras/UdemyCSharp/exercise6/ParaCada/obj/Debug/net6.0/ref/ParaCada.dll
+/home/esdras/UdemyCSharp/exercise6/ParaCada/obj/Debug/net6.0/ParaCada.pdb
+/home/esdras/UdemyCSharp/exercise6/ParaCada/obj/Debug/net6.0/ParaCada.genruntimeconfig.cache
