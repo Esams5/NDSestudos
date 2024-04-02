@@ -1,0 +1,15 @@
+/home/esdras/UdemyCSharp/exercise6/Lista/bin/Debug/net6.0/Lista
+/home/esdras/UdemyCSharp/exercise6/Lista/bin/Debug/net6.0/Lista.deps.json
+/home/esdras/UdemyCSharp/exercise6/Lista/bin/Debug/net6.0/Lista.runtimeconfig.json
+/home/esdras/UdemyCSharp/exercise6/Lista/bin/Debug/net6.0/Lista.dll
+/home/esdras/UdemyCSharp/exercise6/Lista/bin/Debug/net6.0/ref/Lista.dll
+/home/esdras/UdemyCSharp/exercise6/Lista/bin/Debug/net6.0/Lista.pdb
+/home/esdras/UdemyCSharp/exercise6/Lista/obj/Debug/net6.0/Lista.csproj.AssemblyReference.cache
+/home/esdras/UdemyCSharp/exercise6/Lista/obj/Debug/net6.0/Lista.GeneratedMSBuildEditorConfig.editorconfig
+/home/esdras/UdemyCSharp/exercise6/Lista/obj/Debug/net6.0/Lista.AssemblyInfoInputs.cache
+/home/esdras/UdemyCSharp/exercise6/Lista/obj/Debug/net6.0/Lista.AssemblyInfo.cs
+/home/esdras/UdemyCSharp/exercise6/Lista/obj/Debug/net6.0/Lista.csproj.CoreCompileInputs.cache
+/home/esdras/UdemyCSharp/exercise6/Lista/obj/Debug/net6.0/Lista.dll
+/home/esdras/UdemyCSharp/exercise6/Lista/obj/Debug/net6.0/ref/Lista.dll
+/home/esdras/UdemyCSharp/exercise6/Lista/obj/Debug/net6.0/Lista.pdb
+/home/esdras/UdemyCSharp/exercise6/Lista/obj/Debug/net6.0/Lista.genruntimeconfig.cache
