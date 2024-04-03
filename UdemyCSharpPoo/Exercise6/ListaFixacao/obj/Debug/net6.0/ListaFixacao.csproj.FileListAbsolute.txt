@@ -1,0 +1,15 @@
+/home/esdras/UdemyCSharp/exercise6/ListaFixacao/bin/Debug/net6.0/ListaFixacao
+/home/esdras/UdemyCSharp/exercise6/ListaFixacao/bin/Debug/net6.0/ListaFixacao.deps.json
+/home/esdras/UdemyCSharp/exercise6/ListaFixacao/bin/Debug/net6.0/ListaFixacao.runtimeconfig.json
+/home/esdras/UdemyCSharp/exercise6/ListaFixacao/bin/Debug/net6.0/ListaFixacao.dll
+/home/esdras/UdemyCSharp/exercise6/ListaFixacao/bin/Debug/net6.0/ref/ListaFixacao.dll
+/home/esdras/UdemyCSharp/exercise6/ListaFixacao/bin/Debug/net6.0/ListaFixacao.pdb
+/home/esdras/UdemyCSharp/exercise6/ListaFixacao/obj/Debug/net6.0/ListaFixacao.csproj.AssemblyReference.cache
+/home/esdras/UdemyCSharp/exercise6/ListaFixacao/obj/Debug/net6.0/ListaFixacao.GeneratedMSBuildEditorConfig.editorconfig
+/home/esdras/UdemyCSharp/exercise6/ListaFixacao/obj/Debug/net6.0/ListaFixacao.AssemblyInfoInputs.cache
+/home/esdras/UdemyCSharp/exercise6/ListaFixacao/obj/Debug/net6.0/ListaFixacao.AssemblyInfo.cs
+/home/esdras/UdemyCSharp/exercise6/ListaFixacao/obj/Debug/net6.0/ListaFixacao.csproj.CoreCompileInputs.cache
+/home/esdras/UdemyCSharp/exercise6/ListaFixacao/obj/Debug/net6.0/ListaFixacao.dll
+/home/esdras/UdemyCSharp/exercise6/ListaFixacao/obj/Debug/net6.0/ref/ListaFixacao.dll
+/home/esdras/UdemyCSharp/exercise6/ListaFixacao/obj/Debug/net6.0/ListaFixacao.pdb
+/home/esdras/UdemyCSharp/exercise6/ListaFixacao/obj/Debug/net6.0/ListaFixacao.genruntimeconfig.cache
