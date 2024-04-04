@@ -1,0 +1,15 @@
+/home/esdras/UdemyCSharp/exercise6/Matriz/bin/Debug/net6.0/Matriz
+/home/esdras/UdemyCSharp/exercise6/Matriz/bin/Debug/net6.0/Matriz.deps.json
+/home/esdras/UdemyCSharp/exercise6/Matriz/bin/Debug/net6.0/Matriz.runtimeconfig.json
+/home/esdras/UdemyCSharp/exercise6/Matriz/bin/Debug/net6.0/Matriz.dll
+/home/esdras/UdemyCSharp/exercise6/Matriz/bin/Debug/net6.0/ref/Matriz.dll
+/home/esdras/UdemyCSharp/exercise6/Matriz/bin/Debug/net6.0/Matriz.pdb
+/home/esdras/UdemyCSharp/exercise6/Matriz/obj/Debug/net6.0/Matriz.csproj.AssemblyReference.cache
+/home/esdras/UdemyCSharp/exercise6/Matriz/obj/Debug/net6.0/Matriz.GeneratedMSBuildEditorConfig.editorconfig
+/home/esdras/UdemyCSharp/exercise6/Matriz/obj/Debug/net6.0/Matriz.AssemblyInfoInputs.cache
+/home/esdras/UdemyCSharp/exercise6/Matriz/obj/Debug/net6.0/Matriz.AssemblyInfo.cs
+/home/esdras/UdemyCSharp/exercise6/Matriz/obj/Debug/net6.0/Matriz.csproj.CoreCompileInputs.cache
+/home/esdras/UdemyCSharp/exercise6/Matriz/obj/Debug/net6.0/Matriz.dll
+/home/esdras/UdemyCSharp/exercise6/Matriz/obj/Debug/net6.0/ref/Matriz.dll
+/home/esdras/UdemyCSharp/exercise6/Matriz/obj/Debug/net6.0/Matriz.pdb
+/home/esdras/UdemyCSharp/exercise6/Matriz/obj/Debug/net6.0/Matriz.genruntimeconfig.cache
