@@ -1,0 +1,15 @@
+/home/esdras/UdemyCSharp/exercise6/MatrizFixacao/bin/Debug/net6.0/MatrizFixacao
+/home/esdras/UdemyCSharp/exercise6/MatrizFixacao/bin/Debug/net6.0/MatrizFixacao.deps.json
+/home/esdras/UdemyCSharp/exercise6/MatrizFixacao/bin/Debug/net6.0/MatrizFixacao.runtimeconfig.json
+/home/esdras/UdemyCSharp/exercise6/MatrizFixacao/bin/Debug/net6.0/MatrizFixacao.dll
+/home/esdras/UdemyCSharp/exercise6/MatrizFixacao/bin/Debug/net6.0/ref/MatrizFixacao.dll
+/home/esdras/UdemyCSharp/exercise6/MatrizFixacao/bin/Debug/net6.0/MatrizFixacao.pdb
+/home/esdras/UdemyCSharp/exercise6/MatrizFixacao/obj/Debug/net6.0/MatrizFixacao.csproj.AssemblyReference.cache
+/home/esdras/UdemyCSharp/exercise6/MatrizFixacao/obj/Debug/net6.0/MatrizFixacao.GeneratedMSBuildEditorConfig.editorconfig
+/home/esdras/UdemyCSharp/exercise6/MatrizFixacao/obj/Debug/net6.0/MatrizFixacao.AssemblyInfoInputs.cache
+/home/esdras/UdemyCSharp/exercise6/MatrizFixacao/obj/Debug/net6.0/MatrizFixacao.AssemblyInfo.cs
+/home/esdras/UdemyCSharp/exercise6/MatrizFixacao/obj/Debug/net6.0/MatrizFixacao.csproj.CoreCompileInputs.cache
+/home/esdras/UdemyCSharp/exercise6/MatrizFixacao/obj/Debug/net6.0/MatrizFixacao.dll
+/home/esdras/UdemyCSharp/exercise6/MatrizFixacao/obj/Debug/net6.0/ref/MatrizFixacao.dll
+/home/esdras/UdemyCSharp/exercise6/MatrizFixacao/obj/Debug/net6.0/MatrizFixacao.pdb
+/home/esdras/UdemyCSharp/exercise6/MatrizFixacao/obj/Debug/net6.0/MatrizFixacao.genruntimeconfig.cache
