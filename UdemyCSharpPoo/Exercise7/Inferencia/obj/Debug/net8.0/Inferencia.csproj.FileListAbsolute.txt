@@ -1,0 +1,14 @@
+/home/esdras/UdemyCSharp/exercise7/Inferencia/bin/Debug/net8.0/Inferencia
+/home/esdras/UdemyCSharp/exercise7/Inferencia/bin/Debug/net8.0/Inferencia.deps.json
+/home/esdras/UdemyCSharp/exercise7/Inferencia/bin/Debug/net8.0/Inferencia.runtimeconfig.json
+/home/esdras/UdemyCSharp/exercise7/Inferencia/bin/Debug/net8.0/Inferencia.dll
+/home/esdras/UdemyCSharp/exercise7/Inferencia/bin/Debug/net8.0/Inferencia.pdb
+/home/esdras/UdemyCSharp/exercise7/Inferencia/obj/Debug/net8.0/Inferencia.GeneratedMSBuildEditorConfig.editorconfig
+/home/esdras/UdemyCSharp/exercise7/Inferencia/obj/Debug/net8.0/Inferencia.AssemblyInfoInputs.cache
+/home/esdras/UdemyCSharp/exercise7/Inferencia/obj/Debug/net8.0/Inferencia.AssemblyInfo.cs
+/home/esdras/UdemyCSharp/exercise7/Inferencia/obj/Debug/net8.0/Inferencia.csproj.CoreCompileInputs.cache
+/home/esdras/UdemyCSharp/exercise7/Inferencia/obj/Debug/net8.0/Inferencia.dll
+/home/esdras/UdemyCSharp/exercise7/Inferencia/obj/Debug/net8.0/refint/Inferencia.dll
+/home/esdras/UdemyCSharp/exercise7/Inferencia/obj/Debug/net8.0/Inferencia.pdb
+/home/esdras/UdemyCSharp/exercise7/Inferencia/obj/Debug/net8.0/Inferencia.genruntimeconfig.cache
+/home/esdras/UdemyCSharp/exercise7/Inferencia/obj/Debug/net8.0/ref/Inferencia.dll
