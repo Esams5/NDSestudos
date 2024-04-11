@@ -1,0 +1,14 @@
+/home/esdras/UdemyCSharp/exercise7/Switch/bin/Debug/net8.0/Switch
+/home/esdras/UdemyCSharp/exercise7/Switch/bin/Debug/net8.0/Switch.deps.json
+/home/esdras/UdemyCSharp/exercise7/Switch/bin/Debug/net8.0/Switch.runtimeconfig.json
+/home/esdras/UdemyCSharp/exercise7/Switch/bin/Debug/net8.0/Switch.dll
+/home/esdras/UdemyCSharp/exercise7/Switch/bin/Debug/net8.0/Switch.pdb
+/home/esdras/UdemyCSharp/exercise7/Switch/obj/Debug/net8.0/Switch.GeneratedMSBuildEditorConfig.editorconfig
+/home/esdras/UdemyCSharp/exercise7/Switch/obj/Debug/net8.0/Switch.AssemblyInfoInputs.cache
+/home/esdras/UdemyCSharp/exercise7/Switch/obj/Debug/net8.0/Switch.AssemblyInfo.cs
+/home/esdras/UdemyCSharp/exercise7/Switch/obj/Debug/net8.0/Switch.csproj.CoreCompileInputs.cache
+/home/esdras/UdemyCSharp/exercise7/Switch/obj/Debug/net8.0/Switch.dll
+/home/esdras/UdemyCSharp/exercise7/Switch/obj/Debug/net8.0/refint/Switch.dll
+/home/esdras/UdemyCSharp/exercise7/Switch/obj/Debug/net8.0/Switch.pdb
+/home/esdras/UdemyCSharp/exercise7/Switch/obj/Debug/net8.0/Switch.genruntimeconfig.cache
+/home/esdras/UdemyCSharp/exercise7/Switch/obj/Debug/net8.0/ref/Switch.dll
