@@ -1,0 +1,14 @@
+/home/esdras/UdemyCSharp/exercise7/String_formatacoes/bin/Debug/net8.0/String_formatacoes
+/home/esdras/UdemyCSharp/exercise7/String_formatacoes/bin/Debug/net8.0/String_formatacoes.deps.json
+/home/esdras/UdemyCSharp/exercise7/String_formatacoes/bin/Debug/net8.0/String_formatacoes.runtimeconfig.json
+/home/esdras/UdemyCSharp/exercise7/String_formatacoes/bin/Debug/net8.0/String_formatacoes.dll
+/home/esdras/UdemyCSharp/exercise7/String_formatacoes/bin/Debug/net8.0/String_formatacoes.pdb
+/home/esdras/UdemyCSharp/exercise7/String_formatacoes/obj/Debug/net8.0/String_formatacoes.GeneratedMSBuildEditorConfig.editorconfig
+/home/esdras/UdemyCSharp/exercise7/String_formatacoes/obj/Debug/net8.0/String_formatacoes.AssemblyInfoInputs.cache
+/home/esdras/UdemyCSharp/exercise7/String_formatacoes/obj/Debug/net8.0/String_formatacoes.AssemblyInfo.cs
+/home/esdras/UdemyCSharp/exercise7/String_formatacoes/obj/Debug/net8.0/String_formatacoes.csproj.CoreCompileInputs.cache
+/home/esdras/UdemyCSharp/exercise7/String_formatacoes/obj/Debug/net8.0/String_formatacoes.dll
+/home/esdras/UdemyCSharp/exercise7/String_formatacoes/obj/Debug/net8.0/refint/String_formatacoes.dll
+/home/esdras/UdemyCSharp/exercise7/String_formatacoes/obj/Debug/net8.0/String_formatacoes.pdb
+/home/esdras/UdemyCSharp/exercise7/String_formatacoes/obj/Debug/net8.0/String_formatacoes.genruntimeconfig.cache
+/home/esdras/UdemyCSharp/exercise7/String_formatacoes/obj/Debug/net8.0/ref/String_formatacoes.dll
