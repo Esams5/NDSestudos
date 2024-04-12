@@ -1,0 +1,14 @@
+/home/esdras/UdemyCSharp/exercise7/Condicional_Ternaria/bin/Debug/net8.0/Condicional_Ternaria
+/home/esdras/UdemyCSharp/exercise7/Condicional_Ternaria/bin/Debug/net8.0/Condicional_Ternaria.deps.json
+/home/esdras/UdemyCSharp/exercise7/Condicional_Ternaria/bin/Debug/net8.0/Condicional_Ternaria.runtimeconfig.json
+/home/esdras/UdemyCSharp/exercise7/Condicional_Ternaria/bin/Debug/net8.0/Condicional_Ternaria.dll
+/home/esdras/UdemyCSharp/exercise7/Condicional_Ternaria/bin/Debug/net8.0/Condicional_Ternaria.pdb
+/home/esdras/UdemyCSharp/exercise7/Condicional_Ternaria/obj/Debug/net8.0/Condicional_Ternaria.GeneratedMSBuildEditorConfig.editorconfig
+/home/esdras/UdemyCSharp/exercise7/Condicional_Ternaria/obj/Debug/net8.0/Condicional_Ternaria.AssemblyInfoInputs.cache
+/home/esdras/UdemyCSharp/exercise7/Condicional_Ternaria/obj/Debug/net8.0/Condicional_Ternaria.AssemblyInfo.cs
+/home/esdras/UdemyCSharp/exercise7/Condicional_Ternaria/obj/Debug/net8.0/Condicional_Ternaria.csproj.CoreCompileInputs.cache
+/home/esdras/UdemyCSharp/exercise7/Condicional_Ternaria/obj/Debug/net8.0/Condicional_Ternaria.dll
+/home/esdras/UdemyCSharp/exercise7/Condicional_Ternaria/obj/Debug/net8.0/refint/Condicional_Ternaria.dll
+/home/esdras/UdemyCSharp/exercise7/Condicional_Ternaria/obj/Debug/net8.0/Condicional_Ternaria.pdb
+/home/esdras/UdemyCSharp/exercise7/Condicional_Ternaria/obj/Debug/net8.0/Condicional_Ternaria.genruntimeconfig.cache
+/home/esdras/UdemyCSharp/exercise7/Condicional_Ternaria/obj/Debug/net8.0/ref/Condicional_Ternaria.dll
