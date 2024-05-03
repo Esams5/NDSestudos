@@ -1,0 +1,15 @@
+C:\Users\Samuel\Desktop\NDS\NDSestudos\UdemyCSharpPoo\Exercise8\Resolvido1\bin\Debug\net8.0\Resolvido1.exe
+C:\Users\Samuel\Desktop\NDS\NDSestudos\UdemyCSharpPoo\Exercise8\Resolvido1\bin\Debug\net8.0\Resolvido1.deps.json
+C:\Users\Samuel\Desktop\NDS\NDSestudos\UdemyCSharpPoo\Exercise8\Resolvido1\bin\Debug\net8.0\Resolvido1.runtimeconfig.json
+C:\Users\Samuel\Desktop\NDS\NDSestudos\UdemyCSharpPoo\Exercise8\Resolvido1\bin\Debug\net8.0\Resolvido1.dll
+C:\Users\Samuel\Desktop\NDS\NDSestudos\UdemyCSharpPoo\Exercise8\Resolvido1\bin\Debug\net8.0\Resolvido1.pdb
+C:\Users\Samuel\Desktop\NDS\NDSestudos\UdemyCSharpPoo\Exercise8\Resolvido1\obj\Debug\net8.0\Resolvido1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel\Desktop\NDS\NDSestudos\UdemyCSharpPoo\Exercise8\Resolvido1\obj\Debug\net8.0\Resolvido1.AssemblyInfoInputs.cache
+C:\Users\Samuel\Desktop\NDS\NDSestudos\UdemyCSharpPoo\Exercise8\Resolvido1\obj\Debug\net8.0\Resolvido1.AssemblyInfo.cs
+C:\Users\Samuel\Desktop\NDS\NDSestudos\UdemyCSharpPoo\Exercise8\Resolvido1\obj\Debug\net8.0\Resolvido1.csproj.CoreCompileInputs.cache
+C:\Users\Samuel\Desktop\NDS\NDSestudos\UdemyCSharpPoo\Exercise8\Resolvido1\obj\Debug\net8.0\Resolvido1.sourcelink.json
+C:\Users\Samuel\Desktop\NDS\NDSestudos\UdemyCSharpPoo\Exercise8\Resolvido1\obj\Debug\net8.0\Resolvido1.dll
+C:\Users\Samuel\Desktop\NDS\NDSestudos\UdemyCSharpPoo\Exercise8\Resolvido1\obj\Debug\net8.0\refint\Resolvido1.dll
+C:\Users\Samuel\Desktop\NDS\NDSestudos\UdemyCSharpPoo\Exercise8\Resolvido1\obj\Debug\net8.0\Resolvido1.pdb
+C:\Users\Samuel\Desktop\NDS\NDSestudos\UdemyCSharpPoo\Exercise8\Resolvido1\obj\Debug\net8.0\Resolvido1.genruntimeconfig.cache
+C:\Users\Samuel\Desktop\NDS\NDSestudos\UdemyCSharpPoo\Exercise8\Resolvido1\obj\Debug\net8.0\ref\Resolvido1.dll
